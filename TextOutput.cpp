@@ -21,7 +21,7 @@
   along with Arduino-Color-LCD.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "WProgram.h"
+#include <Arduino.h>
 #include <avr/pgmspace.h>
 
 #include "ColorLCD.h"
